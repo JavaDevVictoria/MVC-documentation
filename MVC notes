@@ -13,7 +13,6 @@ INDEX
 4.    Advantages of MVC 
 5.    How Polopoly uses MVC
 
-
 Purpose/Overview
 
 The aim of this document is to explain how the model view controller (MVC) design pattern works within an object oriented environment, and how Polopoly utilises MVC.
@@ -82,7 +81,6 @@ View
 The Velocity template defines what is to be rendered on the webpage. Velocity is a simple to use, open source web framework designed to be used as the view component of an MVC architecture. 
 
 In the Velocity template, variables are used in order to get the data from the controller, eg $content.authenticationRequired.value or $m.local.content.contentId.contentId. 
-
 
 Controller
 
